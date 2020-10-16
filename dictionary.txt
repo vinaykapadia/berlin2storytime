@@ -7,7 +7,7 @@ Hauptstrasse: main road
 Brot: bread
 Gauss:
 Klimaanlage: air
-Rammstein: ram
+Rammstein: ram (also a band)
 Musik: music
 BMW: BMW (car brand)
 Biergarten: beer garden
