@@ -1,0 +1,19 @@
+Kopfkino: head
+Schnapsidee: idea
+Flughafen: airport
+Berlin: Berlin (city)
+Bratwurst: sausage
+Hauptstrasse: main road
+Brot: bread
+Gauss:
+Klimaanlage: air
+Rammstein: ram
+Musik: music
+BMW: BMW (car brand)
+Biergarten: beer garden
+Ratskeller: ratchet
+Dirndel:
+Lederhose: leather pants
+Luftschloss: air lock
+Wettbewerbsfaehig: competitive
+Schneewittchen: snow
