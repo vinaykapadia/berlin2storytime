@@ -5,7 +5,7 @@ Berlin: Berlin (city)
 Bratwurst: sausage
 Hauptstrasse: main road
 Brot: bread
-Gauss:
+Gauss: unit of magnetic flux density
 Klimaanlage: air conditioner
 Rammstein: ram (also a band)
 Musik: music
