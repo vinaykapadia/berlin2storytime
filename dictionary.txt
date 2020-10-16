@@ -1,12 +1,12 @@
 Kopfkino: head
-Schnapsidee: idea
+Schnapsidee: crazy idea
 Flughafen: airport
 Berlin: Berlin (city)
 Bratwurst: sausage
 Hauptstrasse: main road
 Brot: bread
 Gauss:
-Klimaanlage: air
+Klimaanlage: air conditioner
 Rammstein: ram (also a band)
 Musik: music
 BMW: BMW (car brand)
@@ -16,4 +16,4 @@ Dirndel: traditional German dress
 Lederhose: leather pants
 Luftschloss: air lock
 Wettbewerbsfaehig: competitive
-Schneewittchen: snow
+Schneewittchen: snow white
